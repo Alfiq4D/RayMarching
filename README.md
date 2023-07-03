@@ -17,8 +17,8 @@ To run this plugin, copy the RayMarchingShaders folder and its contents to the P
 
 ## Renders
 
-![Alt text](Resources/MandelbulbFront.png)
-![Alt text](Resources/MandelbulbSide.png)
-![Alt text](Resources/BlendSide.png)
-![Alt text](Resources/BlendTop.png)
-![Alt text](Resources/InfiniteSpheres.png)
+![Alt text](Resources/MandelbulbFront.jpg)
+![Alt text](Resources/MandelbulbSide.jpg)
+![Alt text](Resources/BlendSide.jpg)
+![Alt text](Resources/BlendTop.jpg)
+![Alt text](Resources/InfiniteSpheres.jpg)
